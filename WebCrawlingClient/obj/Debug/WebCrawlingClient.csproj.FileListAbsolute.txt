@@ -1,0 +1,10 @@
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\bin\Debug\WebCrawlingClient.exe.config
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\bin\Debug\WebCrawlingClient.exe
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\bin\Debug\WebCrawlingClient.pdb
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.csprojAssemblyReference.cache
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.Form1.resources
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.Properties.Resources.resources
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.csproj.GenerateResource.cache
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.csproj.CoreCompileInputs.cache
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.exe
+C:\Users\kaleb\source\repos\WebCrawlingClient\WebCrawlingClient\obj\Debug\WebCrawlingClient.pdb
